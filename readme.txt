@@ -1,0 +1,1 @@
+1. Create login table and admin account =>  go to log_db.py file to do so, and on running , will automatically create a 
